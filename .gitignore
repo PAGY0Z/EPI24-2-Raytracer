@@ -1,0 +1,12 @@
+# CMake / MSVC build output
+/build/
+/Debug/
+/Release/
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+
+# Generated raytracer renders (large ASCII .ppm, regenerate from examples/configs/*.cfg)
+examples/renders/*.ppm
