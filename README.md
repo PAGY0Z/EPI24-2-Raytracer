@@ -8,6 +8,36 @@ A multithreaded CPU raytracer written from scratch in C++20 for Epitech's Object
 
 **Pierre-Alexandre GROSSET** - pierre-alexandre.grosset@epitech.eu
 
+## Defense results
+
+|              Criteria             |  Score  |
+|:----------------------------------|:-------:|
+| Preliminaries                     | 2 / 2   |
+| Bonus                              | 0 / 0   |
+| Primitives and lights interface   | 0.5 / 0.5 |
+| Pure virtual interfaces           | 0.5 / 0.5 |
+| Primitives container              | 1.5 / 2.5 |
+| Design patterns                   | 1.5 / 2 |
+| Plugins                           | 0 / 2.5 |
+| Documentation                     | 0 / 1   |
+| Primitives                        | 2 / 2   |
+| Transformations                   | 1 / 1   |
+| Light                             | 1.5 / 1.5 |
+| Material                          | 0.5 / 0.5 |
+| Scene configuration               | 2 / 2   |
+| Primitives                        | 1 / 9   |
+| Transformations                   | 1 / 3   |
+| Light                             | 3.5 / 5.5 |
+| Material                          | 1 / 7   |
+| Scene configuration               | 0.5 / 3.5 |
+| Optimizations                     | 1 / 6   |
+| Interface                         | 0 / 4.5 |
+| Error handling                    | 1 / 1   |
+| Template                          | 0 / 1   |
+| Memory management                 | 1 / 1   |
+| Bad practices                     | 0 / 0   |
+| **Mark**                          | **23**  |
+
 ## Features
 
 ### Primitives
