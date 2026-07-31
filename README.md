@@ -36,7 +36,7 @@ A multithreaded CPU raytracer written from scratch in C++20 for Epitech's Object
 | Template                          | 0 / 1   |
 | Memory management                 | 1 / 1   |
 | Bad practices                     | 0 / 0   |
-| **Mark**                          | **23**  |
+| **Mark**                          | **23 / 59.5 (38.7%)** |
 
 ## Features
 
